@@ -22,17 +22,17 @@ This project focuses on building an end-to-end Machine Learning classification s
 
  Target Variable:
 
- Attrition` (Yes / No)
+ - Attrition` (Yes / No)
 
  This is a supervised binary classification problem
 
- Machine Learning Approach
+- Machine Learning Approach
 
 Type of Learning
-  Supervised Learning**
-  Classification Problem**
+- Supervised Learning
+- Classification Problem
 
-Workflow
+- Workflow
 
 1. Data Understanding
 2. Data Cleaning
@@ -55,7 +55,7 @@ Workflow
 - Jupyter Notebook
 
 
-  Data Preprocessing Steps
+- Data Preprocessing Steps
   
 - Removed unnecessary or non-informative columns
 - Handled categorical variables using Label Encoding / One-Hot Encoding
@@ -71,7 +71,7 @@ Workflow
  Random Forest was selected due to its better performance and ability to explain feature importance.
 
 
- Model Evaluation Metrics
+- Model Evaluation Metrics
  
 The following metrics were used to evaluate model performance:
 - Accuracy
