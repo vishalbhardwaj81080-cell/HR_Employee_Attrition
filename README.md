@@ -3,13 +3,13 @@ This project focuses on building an end-to-end Machine Learning classification s
 
  Employee Attrition Prediction using Machine Learning
 
- Problem Statement
+- Problem Statement
   
  Employee attrition is a critical issue for organizations as it leads to increased recruitment costs, loss of experienced talent, and reduced productivity.  
  The goal of this project is to build a Machine Learning model that can predict employee attrition based on historical HR data and identify the key factors responsible   for employee      turnover.
 
 
- Dataset 
+- Dataset 
  
  The dataset contains employee-related information such as:
  
@@ -32,7 +32,7 @@ Type of Learning
 - Supervised Learning
 - Classification Problem
 
-- Workflow
+ Workflow
 
 1. Data Understanding
 2. Data Cleaning
